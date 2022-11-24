@@ -1,2 +1,2 @@
-FROM rancher/system-upgrade-controller:v0.9.1
+FROM rancher/system-upgrade-controller:v0.10.0
 MAINTAINER jason <ji@live.cn>
