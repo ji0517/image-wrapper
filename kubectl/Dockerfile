@@ -1,7 +1,7 @@
 FROM alpine
 MAINTAINER jason <ji@live.cn>
 
-ENV KUBE_LATEST_VERSION="v1.25.7"
+ENV KUBE_LATEST_VERSION="v1.30.0"
 
 RUN apk add --update ca-certificates \
  && apk add -t deps \
